@@ -3,6 +3,9 @@ This is the LaTeX code of solutions I (Mark) made for Introductory Real Analysis
 This project will (hopefully) be joined by Grayson.
 
 The "Notes" section are mainly maintained by Grayson.
-The "Solution_Guide" are mainly contributed by Mark.
+
+The "Solution_Guide" section are mainly contributed by Mark.
 
 When will these be completed?
+
+PS: If you find anything worth mentioning or noticing, email me at: fx355[at]nyu[dot]edu.
